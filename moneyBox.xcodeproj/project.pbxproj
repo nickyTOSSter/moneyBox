@@ -16,6 +16,7 @@
 		4F9DA04227359E8700949D82 /* moneyBoxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9DA04127359E8700949D82 /* moneyBoxTests.swift */; };
 		4F9DA04C27359E8800949D82 /* moneyBoxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9DA04B27359E8800949D82 /* moneyBoxUITests.swift */; };
 		4F9DA04E27359E8800949D82 /* moneyBoxUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F9DA04D27359E8800949D82 /* moneyBoxUITestsLaunchTests.swift */; };
+		4F9DA05B2735A13100949D82 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4F9DA05A2735A13100949D82 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4F9DA04727359E8800949D82 /* moneyBoxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = moneyBoxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F9DA04B27359E8800949D82 /* moneyBoxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moneyBoxUITests.swift; sourceTree = "<group>"; };
 		4F9DA04D27359E8800949D82 /* moneyBoxUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moneyBoxUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4F9DA05A2735A13100949D82 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		4F9DA01E27359E8400949D82 = {
 			isa = PBXGroup;
 			children = (
+				4F9DA05A2735A13100949D82 /* README.md */,
 				4F9DA02927359E8400949D82 /* moneyBox */,
 				4F9DA04027359E8700949D82 /* moneyBoxTests */,
 				4F9DA04A27359E8800949D82 /* moneyBoxUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				4F9DA03727359E8700949D82 /* LaunchScreen.storyboard in Resources */,
 				4F9DA03427359E8700949D82 /* Assets.xcassets in Resources */,
+				4F9DA05B2735A13100949D82 /* README.md in Resources */,
 				4F9DA03227359E8400949D82 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
